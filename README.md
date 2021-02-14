@@ -31,3 +31,6 @@ Sem o docker               |  Com o docker
 
 
 ### Portas
+
+
+### Redes
