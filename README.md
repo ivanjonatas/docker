@@ -24,3 +24,10 @@ Sem o docker               |  Com o docker
 ## Imagem Docker
 
 **Comandos Dentro da imagem**
+
+## Container Docker
+
+### Volumes
+
+
+### Portas
